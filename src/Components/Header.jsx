@@ -7,7 +7,7 @@ import HomeImage from '../assets/img/home.png';
 const Header = () => {
   return (
     <>
-      {/* blob-1 */}
+       {/* blob-1 */}
       <div className='w-64 h-64 bg-green-700 rounded-full blur-3xl -z-10 opacity-40 absolute top-1/2 left-1/2 transform -translate-x-1/2 -translate-y-1/2 '>
       </div>
 
